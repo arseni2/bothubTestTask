@@ -22,3 +22,5 @@ npm run seed:run
 ```
 npm run start:dev
 ```
+# URL Swagger
+http://localhost:3000/docs
